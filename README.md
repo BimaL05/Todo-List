@@ -4,8 +4,8 @@
 
 -Add list on a current date
 
--Can now add custom parameter or address (For eg. - localhost:3000/workList/)
+-Can add custom parameter or address (For eg. - localhost:3000/workList/)
 
 -Can Add/Remove list
 
--Connected database MongoDB.
+-Database connected using MongoDB.
