@@ -2,10 +2,11 @@
 
 -Tech used: HTML, CSS, JavaScript, Node.js, MongoDB
 
--Add list on a current date
+##Features
+  -Add list on a current date
 
--Can add custom parameter or address (For eg. - localhost:3000/workList/)
+  -Can add custom parameter or address (For eg. - localhost:3000/workList/)
 
--Can Add/Remove list
+  -Can Add/Remove list
 
--Database connected using MongoDB.
+  -Database connected using MongoDB.
