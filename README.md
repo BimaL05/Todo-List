@@ -1,6 +1,6 @@
 # **TODO List**
 
--Tech used: HTML CSS JS Node Mongo
+-Tech used: HTML, CSS, JavaScript, Node.js, MongoDB
 
 -Add list on a current date
 
